@@ -5,9 +5,9 @@
 
 ## 🧠 About Me
 
-💻 I'm a **Frontend Developer** specializing in **React.js**. 
-🛠 Currently building responsive web apps with **React**, **TailwindCSS**, and **JavaScript**.
-🎯 Strong in **Problem Solving**, **Debugging**, and **Design Thinking**. 
+💻 I'm a **Frontend Developer** specializing in **React.js**  
+🛠 Currently building responsive web apps with **React**, **TailwindCSS**, and **JavaScript**  
+🎯 Strong in **Problem Solving**, **Debugging**, and **Design Thinking**  
 🧩 I believe:  
 > 🧠 **Coding ≠ Memorizing syntax**  
 > 💡 **Coding = Art of Thinking and Problem Solving**
@@ -47,19 +47,4 @@
 
 ## ⚡ Fun Fact
 
-> I believe great code is not just written — it's **crafted** through **curiosity**, **logic**, and **creativity** 🎨💻## Hi there 👋
-
-<!--
-**jangidvipul/jangidvipul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I believe great code is not just written — it's **crafted** through **curiosity**, **logic**, and **creativity** 🎨💻
