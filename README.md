@@ -5,9 +5,9 @@
 
 ## 🧠 About Me
 
-💻 I'm a **Frontend Developer** specializing in **React.js**  
-🛠 Currently building responsive web apps with **React**, **TailwindCSS**, and **JavaScript**  
-🎯 Strong in **Problem Solving**, **Debugging**, and **Design Thinking**  
+💻 I'm a **Frontend Developer** specializing in **React.js**. 
+🛠 Currently building responsive web apps with **React**, **TailwindCSS**, and **JavaScript**.
+🎯 Strong in **Problem Solving**, **Debugging**, and **Design Thinking**. 
 🧩 I believe:  
 > 🧠 **Coding ≠ Memorizing syntax**  
 > 💡 **Coding = Art of Thinking and Problem Solving**
