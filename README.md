@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vipul Jangid</h1>
-<h3 align="center">A passionate Frontend Developer with a love for problem solving</h3>
+<h3 align="center">A Fullstack Developer with a love for problem solving</h3>
 
 ---
 
 ## 🧠 About Me
 
-💻 I'm a **Frontend Developer** specializing in **React.js**  
-🛠 Currently building responsive web apps with **React**, **TailwindCSS**, and **JavaScript**  
+💻 I'm a **Fullstack developer** specializing in **React.js and FastAPI**  
+🛠 I have build responsive web apps using **React**, **TailwindCSS**, and **JavaScript**  
 🎯 Strong in **Problem Solving**, **Debugging**, and **Design Thinking**  
 🧩 I believe:  
 > 🧠 **Coding ≠ Memorizing syntax**  
